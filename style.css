@@ -1,23 +1,29 @@
+html {
+    background-color:  darkred;
+    padding: 0;
+    margin: 0;
+}
+
 body {
     background-color:  darkred;
     padding: 0;
     margin: 0;
 }
-html, body {
+/* html, body {
     background-color:  darkred;
     height: 100%;
     width: 100vw;
-}  
+}   */
 /* button {
     margin: auto;
     text-align: center;
 } */
-#map_container {
+/* #map_container {
     background-color: darkred;
     height: 100vh;
     width: 100%;
     padding: 100px 0;   
-}
+} */
 #map {
     position: relative;
     background-color: darkred;
@@ -27,24 +33,24 @@ html, body {
     width: 900px;
     margin: auto;
 }
-svg {
+/* svg {
     margin-top: 0;
-    padding: 0;
+    padding: 0; */
     /* display: flex; */
-    position: absolute;
+    /* position: absolute;
     top: 0;
     left: 0;
     height: 500px;
     width: 900px;
     margin: auto;
     z-index: 2;
-}
+} */
 /* div.tooltip {
     position: absolute;
 } */
 
-svg.leaflet-zoom-animated {
+/* svg.leaflet-zoom-animated {
     top: 50px;
     left: 90px;
     transform: translate3d(90px, 50px)
-}
+} */
