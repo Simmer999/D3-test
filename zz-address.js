@@ -1254,4 +1254,4 @@ const markers2 = [
     ["3", -113.6940888, 53.5859462],
     ["1", -113.6694431, 53.5882279],
 ]
-markers.reverse()
+markers2.reverse()

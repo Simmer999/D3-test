@@ -1254,4 +1254,4 @@ const markers1 = [
     {supportLevel: 3, long: -113.6940888, lat: 53.5859462},
     {supportLevel: 1, long: -113.6694431, lat: 53.5882279},
 ]
-markers.reverse()
+markers1.reverse()
